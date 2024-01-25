@@ -1,3 +1,4 @@
+ˋˋˋPython
 from Germany import green_stuff
 
 class ThatsItThatsAll():
@@ -10,10 +11,7 @@ class ThatsItThatsAll():
         self.learning = ["C++", "PHP", "HTML"]
         self.working_on = ["Flipper_Zero", "Making_Linux_Distro"]
 
-    def be_happy(self):
-        if self.roll_weed == None:
-            buy.some_or_grow_yourself(self.get_high)
 
 if name == "__main__":
     me = ThatsItThatsAll()
-
+ˋˋˋ
