@@ -1,16 +1,18 @@
-### Hi there 👋
+from Germany import green_stuff
 
-<!--
-**Zer0Meow/Zer0Meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class ThatsItThatsAll():
+    def __init __(self):
+        self.username = "Zer0 a.k.a Zer0Meow "
+        self.language = ["English", "German", "Romanian"]
+        self.hobbyes = ["Developing", "Pentesting", "Gaming"]
+        self.location = "/bin/zsh"
+        self.enjoy = ["Web_Developement", "Python", "Shell", "Unix"]
+        self.learning = ["C++", "PHP", "HTML"]
+        self.working_on = ["Flipper_Zero", "Making_Linux_Distro"]
 
-Here are some ideas to get you started:
+    def be_happy(self):
+        if self.roll_weed == None:
+            buy.some_or_grow_yourself(self.get_high)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if name == "__main__":
+    me = ThatsItThatsAll()
