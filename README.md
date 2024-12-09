@@ -5,7 +5,7 @@
 
 ```diff
 
-Hello, im Zer0 im learning cybersecurity and stuff
+Hello, im Zer0 im learning cybersecurity and stuff, and i like throwing bricks at homeless people :3
 
 
 ```
@@ -23,7 +23,7 @@ My Skills:
 
 Especially:
 
-[![Skills](https://skillicons.dev/icons?i=linux,arch,gentoo,debian)](https://skillicons.dev) 
+[![Skills](https://skillicons.dev/icons?i=linux,arch,debian)](https://skillicons.dev) 
 
 <br><br>
 
